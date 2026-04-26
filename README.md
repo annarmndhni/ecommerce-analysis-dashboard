@@ -46,7 +46,7 @@ Library yang digunakan dalam proyek ini:
 
 ### Menggunakan Anaconda
 ```bash
-conda create --name ecommerce-env python=3.10
+conda create --name ecommerce-env python=3.9
 conda activate ecommerce-env
 pip install -r requirements.txt
 ```
